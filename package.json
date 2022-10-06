@@ -1,0 +1,37 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Aprender nociones de JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YERSON2345/es6-basis-JS.git"
+  },
+  "keywords": [
+    "es66",
+    "es2015",
+    "funciones",
+    "JS",
+    "Primer",
+    "proyecto",
+    "JS"
+  ],
+  "author": "Yerson Bohorquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YERSON2345/es6-basis-JS/issues"
+  },
+  "homepage": "https://github.com/YERSON2345/es6-basis-JS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
